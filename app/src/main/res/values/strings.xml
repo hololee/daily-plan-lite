@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Daily Plan LITE</string>
+
+    <string name="font">FONT SIZE</string>
+    <string name="pass">PASSWORD</string>
+    <string name="data">BACKUP &amp; RESTORE</string>
+    <string name="color">COLOR</string>
+    <string name="one">1. This app uses nanum font of \'NAVER\'.</string>
+    <string name="two">2. In MainPage or InsertPage, you can select year, month, date.</string>
+    <string name="three">3.Error occured when creating password or when unlock, password be reset to \'0000\'.</string>
+    <string name="hint">Error occured when creating password or when unlock, \n password be reset to \'0000\'.</string>
+    <string name="four">4. Data backuped in \'Storage/Daily plan/database\' existing backups are deleted. All current data is restored when you switch to restore the data . </string>
+    <string name="five">5. If you set the font size on your system, the font size can not be changed . </string>
+    <string name="six">6. When error occured, I would appreciate sent to the following e-mail. </string>
+    <string name="insertPass">Insert\npassword.</string>
+    <string name="alert">Wrong\nPlease re-enter.</string>
+    <string name="alert2">\nPlease enter once more.</string>
+    <string name="alert3">PW is different .\nPlease enter from the beginning. </string>
+    <string name="hint2">LITE.ver cant\'t change password, color. </string>
+
+</resources>

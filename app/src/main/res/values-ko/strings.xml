@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Plan LITE</string>
+    <string name="color">색상</string>
+    <string name="data">데이터 백업 및 복원</string>
+    <string name="pass">비밀번호</string>
+    <string name="font">폰트 크기</string>
+    <string name="one">1. 본 어플은 \'네이버\'의 나눔글꼴을 사용하고 있습니다.</string>
+    <string name="two">2. 처음 화면 또는 작성 화면에서 년,월,일 을 선택해서 특정 날짜로 바꿀 수 있습니다.</string>
+    <string name="three">3. 비밀번호 생성중 오류가 발생하거나 비밀번호 해제시 비밀번호는 \'0000\' 으로 초기화 됩니다.</string>
+    <string name="hint">비밀번호 생성중오류가 발생하거나 비밀번호 해제시 \n 비밀번호는 \'0000\' 으로 초기화 됩니다.</string>
+    <string name="four">4. 데이터는 Storage(메모리)/Daily Plan/database 에 저장 되며 기존 백업은 지워집니다. 복원시 현재 데이터는 모두 복원 데이터로 전환됩니다.</string>
+    <string name="five">5. 시스템에서 폰트 크기를 설정 할 경우 폰트 크기 변경이 불가 할 수 있습니다.</string>
+    <string name="six">6. 오류 발생시 아래의 메일로 내용을 보내주시면 감사 하겠습니다.</string>
+    <string name="insertPass">비밀번호를\n입력해 주세요.</string>
+    <string name="alert">틀렸습니다.\n다시 입력해 주세요.</string>
+    <string name="alert2">\n한번 더 입력해 주세요.</string>
+    <string name="alert3">비빌번호가 다릅니다.\n처음부터 입력해 주세요.</string>
+    <string name="hint2">라이트 버전은 비밀번호, 색상을 이용할 수 없습니다.</string>
+</resources>
